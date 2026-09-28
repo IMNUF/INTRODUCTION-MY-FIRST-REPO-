@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f1ea;color: #222;
+    margin: 0;
+    padding: 40px;
+    text-align: center;
+    
+.portrait {width: 500px;
+    max-width: 90%;
+    height: auto;
+    display: block;
+    margin: 0 auto 30px;
+    border-radius: 12px; }
+
+h1 {font-size: 48px;
+    margin: 10px 0 20px;}
+
+p {font-size: 20px;
+    line-height: 1.6;
+    max-width: 650px;
+    margin: 0 auto 40px;}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 15px;}
+
+.instagram {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.2s ease;}
+
+.instagram:hover {
+    transform: scale(1.15);}
